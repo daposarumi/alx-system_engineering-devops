@@ -1,1 +1,1 @@
-for creating multiple directories
+for listing files and directories
