@@ -1,1 +1,1 @@
-for moving a file to a new folder
+Script to delete file from folder
