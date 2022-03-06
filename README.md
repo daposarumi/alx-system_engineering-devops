@@ -1,1 +1,1 @@
-Repo for shell basics
+repo for shell basics
