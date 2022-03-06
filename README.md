@@ -1,1 +1,1 @@
-This repo is for the "Shell Basics" task
+Repo for Shell basics
