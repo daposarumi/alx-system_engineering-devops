@@ -1,1 +1,1 @@
-Script for displaying file content
+This lists in long format
