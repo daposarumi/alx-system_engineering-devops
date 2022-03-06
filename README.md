@@ -1,1 +1,1 @@
-For shell basics task
+Repo for shell basics
