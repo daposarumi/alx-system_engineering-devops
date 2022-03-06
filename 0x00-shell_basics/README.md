@@ -1,1 +1,1 @@
-This script is for dislaying content of file
+Script for displaying file content
