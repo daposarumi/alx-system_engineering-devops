@@ -1,1 +1,1 @@
-ALX repo for Shell Basics
+This repo is for the "Shell Basics" task

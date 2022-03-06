@@ -1,1 +1,1 @@
-ALX repo for Shell Basics
+This script lists the content of a file
