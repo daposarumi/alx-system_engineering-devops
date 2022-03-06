@@ -1,1 +1,1 @@
-for moving files beginning with capital letters
+for deleting specific files
