@@ -1,1 +1,1 @@
-for creating directory in a folder
+for moving a file to a new folder
