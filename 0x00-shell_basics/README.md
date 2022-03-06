@@ -1,1 +1,1 @@
-for deleting specific files
+for creating multiple directories
