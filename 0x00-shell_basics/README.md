@@ -1,1 +1,1 @@
-for listing files
+script for displaying file type
