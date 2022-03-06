@@ -1,1 +1,1 @@
-for copying html files
+for moving files beginning with capital letters
