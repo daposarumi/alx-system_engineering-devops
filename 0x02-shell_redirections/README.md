@@ -1,1 +1,1 @@
-this script creates a file with text
+this script writes into a file
