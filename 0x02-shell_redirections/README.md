@@ -1,1 +1,1 @@
-this script coounts number of dir. including hidden ones
+this script prints 10 newest files in the dir.
