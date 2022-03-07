@@ -1,1 +1,1 @@
-script grants permission only to other users
+script that sets mode of file
