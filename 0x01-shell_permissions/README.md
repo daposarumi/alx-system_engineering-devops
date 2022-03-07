@@ -1,1 +1,1 @@
-script changes owners and group owners of a file
+script for changing user on a condition
