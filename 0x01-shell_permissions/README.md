@@ -1,1 +1,1 @@
-script creates directory with certain permissions
+script changes group owner
