@@ -1,1 +1,1 @@
-this scripts displays the first ten lines of a file
+this script displays the third line of the file
