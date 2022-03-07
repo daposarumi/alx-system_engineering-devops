@@ -1,1 +1,1 @@
-script for magic file
+magic file script
