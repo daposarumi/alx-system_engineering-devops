@@ -1,1 +1,1 @@
-This script prints unique words
+this scripts dispalys a line containing a pattern
