@@ -1,1 +1,1 @@
-this script all users and home directories, sorted by users
+this script finds all empty files and directiories in the current directory
