@@ -1,1 +1,1 @@
-adds execution command to owner and group owner, read command to users
+script grants execution permission to everybody
