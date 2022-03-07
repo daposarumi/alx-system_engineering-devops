@@ -1,1 +1,1 @@
-script for changing user on a condition
+script plays star wars vi in terminal
