@@ -1,1 +1,1 @@
-repo for alx
+repo for shell basics
