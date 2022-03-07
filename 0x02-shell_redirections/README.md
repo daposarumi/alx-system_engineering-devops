@@ -1,1 +1,1 @@
-script for dislaying content of two files
+script that displays last ten lines of file
