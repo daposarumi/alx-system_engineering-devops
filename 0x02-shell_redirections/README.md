@@ -1,1 +1,1 @@
-script for displaying content of file
+script for dislaying content of two files
