@@ -1,1 +1,1 @@
-this script lists all files with a .gif extension
+this script is for acrostic task
