@@ -1,1 +1,1 @@
-this script prints 10 newest files in the dir.
+This script prints unique words
