@@ -1,1 +1,1 @@
-This script deletes all files with js extension
+this script coounts number of dir. including hidden ones
