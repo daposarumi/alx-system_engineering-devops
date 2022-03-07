@@ -1,1 +1,1 @@
-School.mgc
+script for magic file
