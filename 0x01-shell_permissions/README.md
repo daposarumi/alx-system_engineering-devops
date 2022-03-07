@@ -1,1 +1,1 @@
-script that sets mode of file
+script that mirrors permission
