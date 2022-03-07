@@ -1,1 +1,1 @@
-this script is for acrostic task
+script that parses web sever logs
