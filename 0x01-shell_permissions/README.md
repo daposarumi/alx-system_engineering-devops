@@ -1,1 +1,1 @@
-script adds exec. permission for everyone
+script creates directory with certain permissions
