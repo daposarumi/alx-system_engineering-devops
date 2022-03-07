@@ -1,1 +1,1 @@
-this script displays lines containing pattern and other lines
+this script displays lines that do not contain a pattern
