@@ -1,1 +1,1 @@
-script that mirrors permission
+script adds exec. permission for everyone
