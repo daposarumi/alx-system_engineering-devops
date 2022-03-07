@@ -1,1 +1,1 @@
-this scripts dispalys a line containing a pattern
+This script prints the numbeer of lines that contain pattern
