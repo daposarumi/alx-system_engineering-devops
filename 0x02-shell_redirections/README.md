@@ -1,1 +1,1 @@
-this script displays lines that do not contain a pattern
+this script displays all lines of a file
