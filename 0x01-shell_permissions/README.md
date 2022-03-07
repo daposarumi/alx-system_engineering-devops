@@ -1,1 +1,1 @@
-script grants execution permission to everybody
+script grants permission only to other users
