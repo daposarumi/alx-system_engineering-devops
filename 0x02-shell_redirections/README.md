@@ -1,1 +1,1 @@
-this script displays all lines of a file
+this script replaces certain characters
