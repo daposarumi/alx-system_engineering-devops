@@ -1,1 +1,1 @@
-script add last folder
+script count number of folders
