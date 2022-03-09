@@ -1,1 +1,1 @@
-script lists all variables incl. functions
+script creates local variable
