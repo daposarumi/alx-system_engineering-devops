@@ -1,1 +1,1 @@
-script that converts binary to decimal
+script that prints alphabet combinations
