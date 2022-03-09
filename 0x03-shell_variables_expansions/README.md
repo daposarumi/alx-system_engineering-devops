@@ -1,1 +1,1 @@
-script prints arithmetic
+script carries out division
