@@ -1,1 +1,1 @@
-script that prints alphabet combinations
+script prints decimal number
