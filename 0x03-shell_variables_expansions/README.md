@@ -1,1 +1,1 @@
-script converts decimal to hexadecimal
+script that encodes and decodes text
