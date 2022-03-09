@@ -1,1 +1,1 @@
-script prints decimal number
+script converts decimal to hexadecimal
