@@ -1,1 +1,1 @@
-this script creates a global variable
+script prints arithmetic
