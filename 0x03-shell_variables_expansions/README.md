@@ -1,1 +1,1 @@
-this script carries out power arithmetic
+script that converts binary to decimal
