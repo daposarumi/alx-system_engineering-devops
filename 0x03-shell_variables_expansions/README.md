@@ -1,1 +1,1 @@
-script lists all environment variables
+script lists all variables incl. functions
