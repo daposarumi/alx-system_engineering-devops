@@ -1,1 +1,1 @@
-script count number of folders
+script counts the number of directories
