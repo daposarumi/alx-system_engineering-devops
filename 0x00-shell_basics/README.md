@@ -13,3 +13,4 @@ cd -: It changes directory to previous one.
 ls -al . .. /boot: list all files in working directory and in parent directory and the /boot directory in long format.
 file /tmp/iamafile: prints type of file.
 ln -s /bin/ls __ls__: creates symbolic link
+cp -nu *.html ..: html files.
