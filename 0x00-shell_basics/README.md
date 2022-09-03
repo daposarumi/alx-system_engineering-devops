@@ -5,3 +5,4 @@ ls -la: display current directory content, including hidden files starting with 
 ls -n -a: displays current directory content in long format, hidden files and with user and group IDs displayed numerically
 mkdir /tmp/my_first_directory: creates my_first_directory in /tmp/ directory.
 mv /tmp/betty /tmp/my_first_directory: moves file 'betty' from /tmp/ directory to new directory /tmp/my_first_directory.
+rm /tmp/my_first_directory/betty: deletes the file 'betty'.
