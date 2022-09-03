@@ -14,3 +14,4 @@ ls -al . .. /boot: list all files in working directory and in parent directory a
 file /tmp/iamafile: prints type of file.
 ln -s /bin/ls __ls__: creates symbolic link
 cp -nu *.html ..: html files.
+mv [A-Z]* /tmp/u : moves all files beginning with an uppercase letter to directory.
