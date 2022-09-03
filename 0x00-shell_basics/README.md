@@ -17,3 +17,4 @@ cp -nu *.html ..: html files.
 mv [A-Z]* /tmp/u : moves all files beginning with an uppercase letter to directory.
 rm *~ : delete all files that end with ~.
 mkdir {welcome/,welcome/to/,welcome/to/school} : creates multiple directories in current working directory
+ls -pma : lists all files and directories of current directory.
