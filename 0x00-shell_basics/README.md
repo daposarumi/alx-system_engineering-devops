@@ -9,3 +9,4 @@ rm /tmp/my_first_directory/betty: deletes the file 'betty'.
 rmdir /tmp/my_first_directory: deletes 'my_first_directory' directory.
 cd -: It changes directory to previous one.
 ls -al . .. /boot: list all files in working directory and in parent directory and the /boot directory in long format.
+file /tmp/iamafile: prints type of file.
