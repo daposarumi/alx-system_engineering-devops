@@ -15,3 +15,4 @@ file /tmp/iamafile: prints type of file.
 ln -s /bin/ls __ls__: creates symbolic link
 cp -nu *.html ..: html files.
 mv [A-Z]* /tmp/u : moves all files beginning with an uppercase letter to directory.
+rm *~ : delete all files that end with ~.
