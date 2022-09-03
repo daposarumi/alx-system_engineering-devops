@@ -1,3 +1,5 @@
+# Shell basics command
+
 pwd: this prints the absolute pathname of the current working directory.
 cd: it changes working directory to the user's home directory.
 ls -l: displays current directory content in long format.
@@ -10,3 +12,4 @@ rmdir /tmp/my_first_directory: deletes 'my_first_directory' directory.
 cd -: It changes directory to previous one.
 ls -al . .. /boot: list all files in working directory and in parent directory and the /boot directory in long format.
 file /tmp/iamafile: prints type of file.
+ln -s /bin/ls __ls__: creates symbolic link
