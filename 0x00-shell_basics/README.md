@@ -7,3 +7,4 @@ mkdir /tmp/my_first_directory: creates my_first_directory in /tmp/ directory.
 mv /tmp/betty /tmp/my_first_directory: moves file 'betty' from /tmp/ directory to new directory /tmp/my_first_directory.
 rm /tmp/my_first_directory/betty: deletes the file 'betty'.
 rmdir /tmp/my_first_directory: deletes 'my_first_directory' directory.
+cd -: It changes directory to previous one.
