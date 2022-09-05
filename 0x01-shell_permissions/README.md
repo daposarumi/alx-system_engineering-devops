@@ -3,3 +3,4 @@
 
 `su betty` : script switches current user to betty
 `whoami` : script prints effective username of current user
+`groups` : script prints all the group current user is part of
