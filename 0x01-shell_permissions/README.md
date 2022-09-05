@@ -17,3 +17,4 @@
 * `chgrp school hello` : script changes group owner to `school` in file `hello`<br>
 * `chown vincent:staff *` : script changes owner to `vincent` and gorup owner to `staff` for all the files and directories<br>
 * `chown -h vincent:staff _hello` : script changes owner and group owner of file `hello`<br>
+* `chown --from=guillaume betty hello` :  changes the owner of the file `hello` to `betty` only if it is owned by the user `guillaume`.<br>
