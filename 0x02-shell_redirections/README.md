@@ -12,3 +12,4 @@ echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)": creates file 
 ls -la > ls_cwd_content: overwrites the content of file "ls_cwd_content" with the output of 'ls -la'
 tail -1 < iacta >> iacta: duplicates last line of file 'iacta'
 find -name "*.js" -type f -delete : deletes all files with .js extension in current directory and sub-folders
+ls -A -lR | grep "^d" | wc -l : counts the number of directories and subdirectories in current directory, including hidden directories and excluding the current and parent directory.
