@@ -1,7 +1,7 @@
 # Shell basics command
 ## The following scripts include basic shell commands
 
-`pwd` : this prints the absolute pathname of the current working directory.<br>
+### `pwd` : this prints the absolute pathname of the current working directory.<br>
 `cd` : it changes working directory to the user's home directory.<br>
 `ls -l` : displays current directory content in long format.<br>
 `ls -la` : display current directory content, including hidden files starting with ','<br>
