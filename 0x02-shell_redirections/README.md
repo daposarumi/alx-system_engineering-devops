@@ -2,7 +2,7 @@
 
 ## The following scripts carry out different tasks under shell redirections and filters
 
-echo "Hello, World": script displays 'Hello, World" to standard output
+`echo "Hello, World"` : script displays 'Hello, World" to standard output.<br/>
 echo "\"(Ôo)'": script displays confused smiley, the backslash is to say it is not a special character.
 cat /etc/passwd: displays content of /etc/passwd.
 cat /etc/passwd /etc/hosts: displays content of two files.
