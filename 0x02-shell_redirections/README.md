@@ -1,3 +1,5 @@
+# Shell, I/O Redirection
+
 script that parses web sever logs
 echo "Hello, World": script displays 'Hello, World" to standard output
 echo "\"(Ôo)'": script displays confused smiley, the backslash is to say it is not a special character.
@@ -8,3 +10,4 @@ head /etc/passwd: displays first ten lines of file
 cat iacta |head -3 |tail -1: script displays third line of file 'iacta'
 echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)": creates file that contains text "Best School"
 ls -la > ls_cwd_content: overwrites the content of file "ls_cwd_content" with the output of 'ls -la'
+tail -1 < iacta >> iacta: duplicates last line of file 'iacta'
