@@ -1,7 +1,7 @@
 # Shell permissions
 ## This contains commands and script as regards changing file permissions in the shell etc
 
-###  * `su betty` : script switches current user to betty<br>
+* ### `su betty` : script switches current user to betty<br>
 ###  * `whoami` : script prints effective username of current user<br> ### * `groups` : script prints all the group current user is part of<br>
 ### * `chown betty hello` : script changes owner of file <br>
 ### * `touch hello` : script creates empty file 'hello'<br>
