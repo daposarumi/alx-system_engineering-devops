@@ -23,3 +23,4 @@ grep ^[[:alpha:]] /etc/ssh/sshd_config : display all lines of files starting wit
 tr Ac Ze : script replaces characters 'A' and 'c' with 'Z' and 'e' respectively
 tr -d 'cC' : script removes all letters 'c' and 'C' from input
 rev : script reverses input
+cut -d : -f 1,6 /etc/passwd | sort : script displays all users and their home directory.
