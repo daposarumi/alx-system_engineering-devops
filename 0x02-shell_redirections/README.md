@@ -1,5 +1,7 @@
 # Shell, I/O Redirection
 
+## The following scripts carry out different tasks under shell redirections and filters
+
 echo "Hello, World": script displays 'Hello, World" to standard output
 echo "\"(Ôo)'": script displays confused smiley, the backslash is to say it is not a special character.
 cat /etc/passwd: displays content of /etc/passwd.
