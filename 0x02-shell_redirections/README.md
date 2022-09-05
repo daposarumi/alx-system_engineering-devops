@@ -22,3 +22,4 @@ grep -v bin /etc/passwd : display all lines in files that do not contain pattern
 grep ^[[:alpha:]] /etc/ssh/sshd_config : display all lines of files starting with a letter
 tr Ac Ze : script replaces characters 'A' and 'c' with 'Z' and 'e' respectively
 tr -d 'cC' : script removes all letters 'c' and 'C' from input
+rev : script reverses input
