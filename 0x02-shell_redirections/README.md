@@ -14,3 +14,4 @@ tail -1 < iacta >> iacta: duplicates last line of file 'iacta'
 find -name "*.js" -type f -delete : deletes all files with .js extension in current directory and sub-folders
 ls -A -lR | grep "^d" | wc -l : counts the number of directories and subdirectories in current directory, including hidden directories and excluding the current and parent directory.
 ls -U -t | head -10 : display first ten files in directory, from newest to oldest and one file per line.
+sort | uniq -u : displays unique words
