@@ -7,3 +7,4 @@
 `chown betty hello` : script changes owner of file 
 `touch hello` : script creates empty file 'hello'
 `chmod u+x hello` : adds execute permission to owner of file 'hello'
+`chmod ug+x,o+r hello` : adds multiple permissions to file 
