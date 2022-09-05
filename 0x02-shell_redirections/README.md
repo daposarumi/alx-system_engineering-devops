@@ -16,3 +16,4 @@ ls -A -lR | grep "^d" | wc -l : counts the number of directories and subdirector
 ls -U -t | head -10 : display first ten files in directory, from newest to oldest and one file per line.
 sort | uniq -u : displays unique words
 grep root /etc/passwd : displays lines containing pattern "root" in file
+grep -c bin /etc/passwd : displays number of lines that contain pattern "bin" in file
