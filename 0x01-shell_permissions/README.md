@@ -6,3 +6,4 @@
 `groups` : script prints all the group current user is part of
 `chown betty hello` : script changes owner of file 
 `touch hello` : script creates empty file 'hello'
+`chmod u+x hello` : adds execute permission to owner of file 'hello'
