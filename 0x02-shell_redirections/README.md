@@ -25,3 +25,4 @@ tr -d 'cC' : script removes all letters 'c' and 'C' from input
 rev : script reverses input
 cut -d : -f 1,6 /etc/passwd | sort : script displays all users and their home directory.
 find -empty | rev | cut -d'/' -f1 | rev : script finds all empty files and directories in the current directory and all sub-directories.
+find -type f -name "*.gif" -printf "%f\n" | rev | cut -d'.' -f 2- | rev | LC_ALL=C sort -f : lists all files with .gif extension in current directory and sub-directories.
