@@ -11,3 +11,4 @@ cat iacta |head -3 |tail -1: script displays third line of file 'iacta'
 echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)": creates file that contains text "Best School"
 ls -la > ls_cwd_content: overwrites the content of file "ls_cwd_content" with the output of 'ls -la'
 tail -1 < iacta >> iacta: duplicates last line of file 'iacta'
+find -name "*.js" -type f -delete : deletes all files with .js extension in current directory and sub-folders
