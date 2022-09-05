@@ -8,3 +8,4 @@
 `touch hello` : script creates empty file 'hello'
 `chmod u+x hello` : adds execute permission to owner of file 'hello'
 `chmod ug+x,o+r hello` : adds multiple permissions to file 
+`chmod ugo+x hello` : script adds execution permission to users and group owner and owner
