@@ -20,3 +20,4 @@ grep -c bin /etc/passwd : displays number of lines that contain pattern "bin" in
 grep -A 3 root /etc/passwd : displays lines that contain pattern "root" and three lines after them
 grep -v bin /etc/passwd : display all lines in files that do not contain pattern "bin"
 grep ^[[:alpha:]] /etc/ssh/sshd_config : display all lines of files starting with a letter
+tr Ac Ze : script replaces characters 'A' and 'c' with 'Z' and 'e' respectively
