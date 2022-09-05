@@ -18,3 +18,4 @@ sort | uniq -u : displays unique words
 grep root /etc/passwd : displays lines containing pattern "root" in file
 grep -c bin /etc/passwd : displays number of lines that contain pattern "bin" in file
 grep -A 3 root /etc/passwd : displays lines that contain pattern "root" and three lines after them
+grep -v bin /etc/passwd : display all lines in files that do not contain pattern "bin"
