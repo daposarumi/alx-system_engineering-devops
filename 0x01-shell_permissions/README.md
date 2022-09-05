@@ -15,3 +15,4 @@
 * `chmod a+x */` : script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.<br>
 * `mkdir -m 751 my_dir` : script creates directory with permission '751'<br>
 * `chgrp school hello` : script changes group owner to `school` in file `hello`<br>
+* `chown vincent:staff *` : script changes owner to `vincent` and gorup owner to `staff`<br>
