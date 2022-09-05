@@ -5,3 +5,4 @@
 `whoami` : script prints effective username of current user
 `groups` : script prints all the group current user is part of
 `chown betty hello` : script changes owner of file 
+`touch hello` : script creates empty file 'hello'
